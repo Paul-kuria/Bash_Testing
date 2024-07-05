@@ -1,12 +1,4 @@
 #!/bin/bash 
-
-
-# If syntax
-# if [condition];
-# then
-#     condition
-# fi 
-
 echo "Please enter your username: "
 read FNAME
 
